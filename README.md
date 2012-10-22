@@ -2,7 +2,7 @@
 
 A clojure port of http://distractionandnonsense.com/zombies/
 
-Implementation is Incomplete.
+Probably has bugs.
 
 ## License
 
